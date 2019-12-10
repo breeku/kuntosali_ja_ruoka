@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Get Fit</string>
+    <string name="button_upload">Lataa</string>
+    <string name="edit_message">Nimi</string>
+    <string name="edit_pw">Salasana</string>
+    <string name="edit_email">Sähköposti</string>
+    <string name="taysilepo">Täysi lepo (1.0x)</string>
+    <string name="kevyt">Kevyt (1.3x)</string>
+    <string name="tavallinen">Tavallinen (1.5x)</string>
+    <string name="kohtalainen">Kohtalainen (1.9x)</string>
+    <string name="kova">Kova (2.2x)</string>
+    <string name="erittainkova">Erittäin kova (2.5x)</string>
+    <string name="mies">Mies</string>
+    <string name="nainen">Nainen</string>
+    <string name="title">Kalorilaskuri</string>
+    <string name="activity">Aktiivisuustasosi</string>
+    <string name="kaloriTitle">Tarvitset päivässä</string>
+    <string name="ikaHint">Ikä</string>
+    <string name="pituusHint">Pituus</string>
+    <string name="painoHint">Paino</string>
+</resources>
